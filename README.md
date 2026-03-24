@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micheal Angelo</h1>
-<h3 align="center">Full-Stack Developer | Flutter | Blockchain | AI Systems</h3>
+<h3 align="center">Full-Stack Developer | Flutter | Blockchain | Typecript/javascript</h3>
 
 <p align="center">
 Building real-world software systems that solve complex problems.
@@ -15,7 +15,7 @@ Building real-world software systems that solve complex problems.
 
 - 🌍 Based in Rwanda
 - 💻 Passionate about building real-world software systems
-- 🧠 Currently exploring Machine Learning + Factory Automation
+- 🧠 Currently exploring Machine Learning + Javascript
 - ⚡ Focused on Flutter, Blockchain, and Full-Stack Architecture
 
 ---
@@ -27,6 +27,7 @@ Building real-world software systems that solve complex problems.
 ![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=ethereum&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Typescript](https://img.shields.io/badge/typescript-0175C2?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
@@ -50,7 +51,7 @@ A smart system for managing factory operations.
 - Mobile + Web dashboards
 
 **Tech**  
-Flutter • Backend APIs • ML • NFC
+Typescript • Flutter • Backend APIs • ML • NFC
 
 ---
 
@@ -69,7 +70,7 @@ A cross-platform application for managing schools.
 Android • iOS • Web • Windows • Linux
 
 **Tech**  
-Flutter • REST APIs • Databases
+Flutter • Typescripts • REST APIs • Databases
 
 ---
 
@@ -110,6 +111,7 @@ Solidity • Ethereum • Smart Contracts
 
 - GitHub: https://github.com/micheall-xo
 - LinkedIn: https://www.linkedin.com/in/micheal-angelo-a5a80228b
+- instagram: https://www.instagram.com/micheall-
 
 ---
 
